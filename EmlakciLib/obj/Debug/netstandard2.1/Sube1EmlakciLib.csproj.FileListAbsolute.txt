@@ -1,0 +1,9 @@
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\bin\Debug\netstandard2.1\Sube1EmlakciLib.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\bin\Debug\netstandard2.1\Sube1EmlakciLib.dll
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\bin\Debug\netstandard2.1\Sube1EmlakciLib.pdb
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\obj\Debug\netstandard2.1\Sube1EmlakciLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\obj\Debug\netstandard2.1\Sube1EmlakciLib.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\obj\Debug\netstandard2.1\Sube1EmlakciLib.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\obj\Debug\netstandard2.1\Sube1EmlakciLib.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\obj\Debug\netstandard2.1\Sube1EmlakciLib.dll
+C:\Users\musta\OneDrive\Masaüstü\Algoritma Ödev\EmlakciLib\obj\Debug\netstandard2.1\Sube1EmlakciLib.pdb
